@@ -1,0 +1,7 @@
+Lunghezza file: 4
+
+Contenuto del file "testo.txt"
+65 66 67 68 
+
+Copio il contenuto del vettore nel file "testo2.txt"
+Fine
